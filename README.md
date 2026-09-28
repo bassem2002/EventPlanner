@@ -29,7 +29,6 @@ A complete walkthrough of the main EventPlanner workflows is available here:
 - Admin user management
 - Admin registration overview
 
-> Replace `YOUR_VIDEO_LINK_HERE` with your Google Drive, YouTube, Vimeo, or other public demo URL.
 
 ---
 
