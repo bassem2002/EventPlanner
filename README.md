@@ -12,7 +12,7 @@ The application is built with **Laravel 12**, **PHP 8.2**, **MySQL**, **Eloquent
 
 A complete walkthrough of the main EventPlanner workflows is available here:
 
-[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-EventPlanner-red?style=for-the-badge)](YOUR_VIDEO_LINK_HERE)
+[![Watch Demo](https://img.shields.io/badge/▶%20Watch%20Demo-EventPlanner-red?style=for-the-badge)](https://drive.google.com/file/d/1n4wYXKcO70Brjbpre_zxXekASekbVXlZ/view?usp=drive_link)
 
 ### Demo includes
 
