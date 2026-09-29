@@ -1,5 +1,14 @@
 # 📅 EventPlanner
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel%2012-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12" />
+  <img src="https://img.shields.io/badge/PHP%208.2-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2" />
+  <img src="https://img.shields.io/badge/Event%20Management-Admin%20%7C%20User-0F766E?style=for-the-badge" alt="Event management" />
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-14B8A6?style=for-the-badge" alt="MIT License" /></a>
+</p>
+
+<p align="center"><a href="#-features">Features</a> · <a href="#-software-architecture">Architecture</a> · <a href="#-installation">Installation</a> · <a href="#-testing">Testing</a></p>
+
 ### Full-Stack Event Management Platform built with Laravel 12
 
 EventPlanner is a full-stack web application designed to manage **events, categories, users, and event registrations** through separate workflows for administrators and participants.
